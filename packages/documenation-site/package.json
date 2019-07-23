@@ -1,0 +1,22 @@
+{
+  "name": "documenation-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "start": "gatsby develop"
+  },
+  "keywords": [],
+  "author": "Trevor W. Adams <trevorwadams@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docz": "^2.0.0-rc.1",
+    "gatsby": "^2.13.35",
+    "gatsby-theme-component-library": "*",
+    "gatsby-theme-docz": "^2.0.0-rc.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

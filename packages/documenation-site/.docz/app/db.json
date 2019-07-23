@@ -1,0 +1,41 @@
+{
+  "config": {
+    "title": "Documenation Site",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {
+      "colors": {
+        "header": {
+          "bg": "tomato"
+        }
+      }
+    },
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "docs/welcome.mdx",
+      "value": {
+        "name": "Welcome",
+        "route": "/",
+        "id": "d6b8d6f373aa230951568a430e875452",
+        "filepath": "docs/welcome.mdx",
+        "fullpath": "F:\\src\\twa\\design-system\\packages\\documenation-site\\docs\\welcome.mdx",
+        "link": "",
+        "slug": "docs-welcome",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "welcome",
+            "depth": 1,
+            "value": "Welcome"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
