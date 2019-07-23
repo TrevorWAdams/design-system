@@ -11,6 +11,36 @@
   },
   "entries": [
     {
+      "key": "docs/buttons.mdx",
+      "value": {
+        "name": "Buttons",
+        "route": "/buttons",
+        "id": "d018813b1f7a91d522c294503e626c27",
+        "filepath": "docs/buttons.mdx",
+        "fullpath": "F:\\src\\twa\\design-system\\packages\\documenation-site\\docs\\buttons.mdx",
+        "link": "",
+        "slug": "docs-buttons",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "buttons",
+            "depth": 1,
+            "value": "Buttons"
+          },
+          {
+            "slug": "default",
+            "depth": 2,
+            "value": "Default"
+          },
+          {
+            "slug": "iconbuttons",
+            "depth": 2,
+            "value": "IconButtons"
+          }
+        ]
+      }
+    },
+    {
       "key": "docs/welcome.mdx",
       "value": {
         "name": "Welcome",
