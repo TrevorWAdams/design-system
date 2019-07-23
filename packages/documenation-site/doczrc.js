@@ -1,10 +1,10 @@
 // doczrc.js
-export default {
-  themeConfig: {
-    colors: {
-      header: {
-        bg: 'tomato',
-      },
-    },
-  },
-}
+// export default {
+//   themeConfig: {
+//     colors: {
+//       header: {
+//         bg: 'tomato',
+//       },
+//     },
+//   },
+// }
