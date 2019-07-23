@@ -41,6 +41,31 @@
       }
     },
     {
+      "key": "docs/forms.mdx",
+      "value": {
+        "name": "Forms",
+        "route": "/forms",
+        "id": "cf1cc9dc8f1f3af879b986ca5ebf9e69",
+        "filepath": "docs/forms.mdx",
+        "fullpath": "F:\\src\\twa\\design-system\\packages\\documenation-site\\docs\\forms.mdx",
+        "link": "",
+        "slug": "docs-forms",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "forms",
+            "depth": 1,
+            "value": "Forms"
+          },
+          {
+            "slug": "label",
+            "depth": 2,
+            "value": "Label"
+          }
+        ]
+      }
+    },
+    {
       "key": "docs/welcome.mdx",
       "value": {
         "name": "Welcome",
